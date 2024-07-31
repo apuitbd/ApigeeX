@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
+  <diagram name="Page-1" id="cM2_JJ4R7sRUM_8UolFd">
+    <mxGraphModel dx="1386" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QYXm0x5vb0dUCt9z59In-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="90" y="90" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="QYXm0x5vb0dUCt9z59In-2" value="DHL Org" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="265" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QYXm0x5vb0dUCt9z59In-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="150" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QYXm0x5vb0dUCt9z59In-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="265" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
